@@ -1,0 +1,1 @@
+Batch file to run in Windows to zip contents that are found within a certain path based on year. The output is then put to a new directory named the year with one containing zip file.
